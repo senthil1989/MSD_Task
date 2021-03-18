@@ -1,0 +1,6 @@
+.bg-header {
+    background-color: #1c1c28;
+}
+.twitter::before {
+    font-family: "Font Awesome 5 Brands"; content: "\f099";
+  }
